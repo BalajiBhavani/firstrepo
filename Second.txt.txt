@@ -1,0 +1,2 @@
+Welcome to Git commands today we are learning about git commands
+like git push git commit and git pull
