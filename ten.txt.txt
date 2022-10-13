@@ -2,3 +2,4 @@ Welcome to git commands and git hub
 git commit
 git push
 git pull
+and also we have to learn linux and it's importance
