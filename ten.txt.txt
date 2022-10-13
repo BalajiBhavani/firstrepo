@@ -1,0 +1,4 @@
+Welcome to git commands and git hub
+git commit
+git push
+git pull
